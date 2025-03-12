@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohamad
 - 👀 I’m a computer science student
-- 🌱 I’m currently programming softwares in c++, c, java and python
-- 💻 I'm working as a Webdeveloper at Minax-Intermedia in Germany!
+- 🌱 I’m currently programming softwares in java, .Net, Vue.js and python
+- 💻 I'm working as a software developer
 
 
 <!---
